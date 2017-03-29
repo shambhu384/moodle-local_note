@@ -58,3 +58,12 @@ $string['more'] = 'read more..';
 $string['err_courseselect']='You must supply course name.';
 $string['permisssiondenied']='You don\'t have permission to edit this note.';
 $string['permisssiondenieddelete']='You don\'t have permission to delete this note.';
+
+
+$string['compose'] = 'Compose note';
+$string['publish'] = 'Publish';
+$string['draft'] = 'Draft';
+$string['private'] = 'Private';
+$string['public'] = 'Public';
+$string['privacy'] = 'Privacy';
+
